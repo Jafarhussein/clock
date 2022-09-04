@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    background-color: #0d131c;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Sora', sans-serif;
+}
+
+#clock{
+    border: 10px solid #b4f1b2;
+    width: 40rem;
+    height: 10rem;
+    color: #ffffff;
+    font-size: 5rem;
+    padding: 2rem;
+    text-transform: uppercase;
+    color: #63cc95;
+    border-radius: 5px;
+}
